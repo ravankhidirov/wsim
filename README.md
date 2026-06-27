@@ -1,4 +1,7 @@
-Wave simulation using EFIT method implemented with Numpy and Cupy (for cpu and gpu). Multi-GPU version is being developed using cupynumeric.
+Wave simulation using EFIT method implemented with Numpy and Cupy (for cpu and gpu) in 2D and 3D. Multi-GPU version is being developed using cupynumeric.
+
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/756d6dca-fd58-4567-a4d3-25122ce05daf" />
+
 
 References:
 
